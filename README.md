@@ -29,6 +29,7 @@
 | MCU | 和单片机相关的讨论 |  
 | FPGA | 和FPGA/CPLD/RFSoC相关的讨论 |
 | RF&MW | 射频微波 |
+| 模拟电路 | Analog Magic |
 | 计量 | Metrology,计量级电子电路or技术讨论 |
 | 电源 | 包括AC-DC、DC-DC等一切与电源相关的讨论 |
 | 开源硬件 | 各种各样的开源硬件项目 |
